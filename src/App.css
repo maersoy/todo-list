@@ -1,0 +1,11 @@
+.App-header {
+    margin: 40px;
+    background-color: #3c424a;
+    border-radius: 4px;
+    min-height: 90vh;
+    align-items: center;
+    justify-content: flex-end;
+}
+body{
+    background: #e55c8a;
+}
